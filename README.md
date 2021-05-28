@@ -1,4 +1,4 @@
-# diagrams.net GitHub Integration 1
+# diagrams.net GitHub Integration 2
 
 Please read <a href="https://github.com/jgraph/drawio-integration" target="_blank">this</a> for a high-level introduction.
 
