@@ -203,7 +203,7 @@
 
                         var updateUrl = 'https://api.github.com/repos/' + org + '/' + repo +
                             '/contents/' + path;
-						writeFile(url, path, obj.sha, msg || '', data, fn);
+						writeFile(updateUrl, path, obj.sha, msg || '', data, fn);
 					});
 				}
 				else
